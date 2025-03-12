@@ -1,6 +1,6 @@
 function updateProfile() {
     document.getElementById("name").textContent = "Divzz";
-    document.getElementById("position").textContent = "Senior Software Engineer";
+    document.getElementById("position").textContent = "order?? kunjungi instagram atau chat no di bawah";
     document.getElementById("email").textContent = "divzzxxx@gmail.com";
     document.getElementById("phone").textContent = "+62 8181 8160 725";
     document.getElementById("address").textContent = "Jl. ytta, Bandung";
